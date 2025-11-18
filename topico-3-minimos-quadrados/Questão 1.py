@@ -37,7 +37,7 @@ try:
     C = coeficientes[0]
     M = coeficientes[1]
 
-    print("\n--- COEFICIENTES ---")
+    print("\n--- Coeficientes ---")
     print(f"M (coeficiente angular): {M:.10f}")
     print(f"C (coeficiente linear): {C:.10f}\n")
     
